@@ -6,7 +6,7 @@ This is a simple implementation of the popular 2048 game built using HTML, CSS, 
 
 ## Demo
 
-You can play the game [here](link_to_your_game).
+You can play the game [here](https://sithumsankajith.github.io/2048-mini-game/).
 
 ![Game Screenshot](2048ss2.png)
 
@@ -28,7 +28,7 @@ The rules of the game are simple:
 
 To run the game locally on your machine:
 
-1. Clone this repository: `git clone https://github.com/your_username/2048-mini-game.git`
+1. Clone this repository: `git clone https://github.com/sithumsankajith/2048-mini-game.git`
 2. Navigate to the project directory.
 3. Open `index.html` in your preferred web browser.
 
